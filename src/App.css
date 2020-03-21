@@ -1,0 +1,25 @@
+.header{
+  background-color: rgb(52, 52, 54);
+  margin: auto;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+.myinfo{
+  background-color: rgb(188, 188, 233);
+  margin: auto;
+  color: rgb(43, 41, 41);
+  text-align: center;
+  padding: 50px;
+}
+.footer{
+  background-color: rgb(25, 25, 187);
+  margin: auto;
+  color: rgb(243, 158, 158);
+  text-align: center;
+  padding: 50px;
+}
+.listItem{
+  text-align: left;
+  margin-left: 325px;
+}
